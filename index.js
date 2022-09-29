@@ -95,6 +95,6 @@ console.log("Server listening on localhost:3000 ...");
 console.log("----- Requests -------------------------");
 console.log("http://localhost:3000/abservice/add-product?product=Laptop&price=120.99&category=PC");
 console.log("http://localhost:3000/abservice/get-all-product");
-console.log("http://localhost:3000/abservice/get-product?product_id=1245");
-console.log("http://localhost:3000/abservice/delete-all-product?product_id=1245");
+console.log("http://localhost:3000/abservice/get-product?prod5uct_id=h4ysw4");
+console.log("http://localhost:3000/abservice/delete-all-product?product_id=h4ysw4");
 
