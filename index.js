@@ -80,7 +80,7 @@ seneca.act('role:web', {
             'get-all-users': { GET: true , POST: true },
             'get-user': { GET: true ,  POST: true },
             'delete-user': { GET: true , POST: true }
-            'delete-all-user': { GET: true , POST: true }
+            
         }
     }
 })
